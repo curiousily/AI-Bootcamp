@@ -1,6 +1,6 @@
 # AI Bootcamp
 
-The "Get Shit Done with AI" Bootcamp focuses on real-world applications that will equip you with the skills and knowledge to become great AI engineer
+The "Get Shit Done with AI" Bootcamp focuses on real-world applications that will equip you with the skills and knowledge to become a great AI engineer
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/curiousily/AI-Bootcamp/)
 [![](https://dcbadge.vercel.app/api/server/UaNPxVD6tv?style=flat)](https://discord.gg/UaNPxVD6tv)
@@ -35,3 +35,7 @@ The "Get Shit Done with AI" Bootcamp focuses on real-world applications that wil
 - [Build a RAG System](https://www.mlexpert.io/bootcamp/build-a-rag-system)
 - [Fine-tuning Tiny LLM on Custom Dataset](https://www.mlexpert.io/bootcamp/fine-tuning-tiny-llm-on-custom-dataset)
 - [Deploy Custom LLM to Production](https://www.mlexpert.io/bootcamp/deploy-custom-llm-to-production)
+
+### AI Agents
+
+- [Build Agentic Apps](https://www.mlexpert.io/bootcamp/build-agentic-apps)
