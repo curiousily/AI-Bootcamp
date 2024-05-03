@@ -13,6 +13,7 @@ The "Get Shit Done with AI" Bootcamp focuses on real-world applications that wil
 - [Build Real-World Machine Learning Project](https://www.youtube.com/watch?v=ug1FA7qzWSc)
 - [Fine-tuning Tiny LLM on Your Data](https://www.youtube.com/watch?v=_KPEoCSKHcU)
 - [Deploy (Tiny) LLM to Production](https://www.youtube.com/watch?v=c10rsQkczu0)
+- [AI Agents with GPT-4 Turbo and CrewAI](https://www.youtube.com/watch?v=Ev0uzdzesjU)
 
 ## 📖 Read the Tutorials
 
@@ -39,3 +40,4 @@ The "Get Shit Done with AI" Bootcamp focuses on real-world applications that wil
 ### AI Agents
 
 - [Build Agentic Apps](https://www.mlexpert.io/bootcamp/build-agentic-apps)
+- [Agents with Llama 3 and Custom Tools](https://www.mlexpert.io/bootcamp/agents-with-llama-3-and-custom-tools)
