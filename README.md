@@ -14,6 +14,9 @@ The "Get Shit Done with AI" Bootcamp focuses on real-world applications that wil
 - [Fine-tuning Tiny LLM on Your Data](https://www.youtube.com/watch?v=_KPEoCSKHcU)
 - [Deploy (Tiny) LLM to Production](https://www.youtube.com/watch?v=c10rsQkczu0)
 - [AI Agents with GPT-4 Turbo and CrewAI](https://www.youtube.com/watch?v=Ev0uzdzesjU)
+- [CrewAI with Open LLM (Llama 3) using Groq API](https://www.youtube.com/watch?v=N5sos1X30Rw)
+- [Fine-Tuning Llama 3 on a Custom Dataset](https://www.youtube.com/watch?v=0XPZlR3_GgI)
+- [Local RAG with Llama 3.1 for PDFs](https://www.youtube.com/watch?v=ofNbLa2-5SU)
 
 ## 📖 Read the Tutorials
 
@@ -36,8 +39,15 @@ The "Get Shit Done with AI" Bootcamp focuses on real-world applications that wil
 - [Build a RAG System](https://www.mlexpert.io/bootcamp/build-a-rag-system)
 - [Fine-tuning Tiny LLM on Custom Dataset](https://www.mlexpert.io/bootcamp/fine-tuning-tiny-llm-on-custom-dataset)
 - [Deploy Custom LLM to Production](https://www.mlexpert.io/bootcamp/deploy-custom-llm-to-production)
+- [LLM Evaluation](https://www.mlexpert.io/bootcamp/llm-evaluation)
 
 ### AI Agents
 
 - [Build Agentic Apps](https://www.mlexpert.io/bootcamp/build-agentic-apps)
 - [Agents with Llama 3 and Custom Tools](https://www.mlexpert.io/bootcamp/agents-with-llama-3-and-custom-tools)
+- [Develop a Tweet Writing Team](https://www.mlexpert.io/bootcamp/ai-agents-in-action)
+- [SQL Agents with CrewAI and Llama 3](https://www.mlexpert.io/bootcamp/sql-agents-with-crewai)
+
+### Projects
+
+- [RagBase - Private Chat with Your Documents](https://www.mlexpert.io/bootcamp/ragbase-local-rag)
