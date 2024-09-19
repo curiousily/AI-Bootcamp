@@ -51,3 +51,4 @@ The "Get Shit Done with AI" Bootcamp focuses on real-world applications that wil
 ### Projects
 
 - [RagBase - Private Chat with Your Documents](https://www.mlexpert.io/bootcamp/ragbase-local-rag)
+- [Write Social Media Content with Agents](https://www.mlexpert.io/bootcamp/write-social-media-content-with-agents)
