@@ -1,0 +1,27 @@
+{
+      // jupyter
+  "jupyter.askForKernelRestart": false,
+  "notebook.consolidatedRunButton": true,
+  "notebook.formatOnSave.enabled": true,
+  "notebook.defaultFormatter": "charliermarsh.ruff",
+
+  // ruff
+  "ruff.enable": true,
+  "ruff.organizeImports": true,
+  "ruff.importStrategy": "useBundled",
+  "ruff.format.args": ["--line-length=120"],
+  "ruff.lint.run": "onSave",
+  "ruff.lint.args": [
+      "--line-length=120",
+  ],
+
+  // python linter and formatter
+  "[python]": {
+      "editor.formatOnSave": true,
+      "editor.defaultFormatter": "charliermarsh.ruff",
+      "editor.codeActionsOnSave": {
+          "source.fixAll": "never",
+          "source.organizeImports": "explicit"
+      }
+  },
+}
