@@ -9,11 +9,7 @@
   "ruff.enable": true,
   "ruff.organizeImports": true,
   "ruff.importStrategy": "useBundled",
-  "ruff.format.args": ["--line-length=120"],
-  "ruff.lint.run": "onSave",
-  "ruff.lint.args": [
-      "--line-length=120",
-  ],
+  "ruff.lineLength": 128,
 
   // python linter and formatter
   "[python]": {
