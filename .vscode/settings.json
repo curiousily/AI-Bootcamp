@@ -20,7 +20,14 @@
           "source.organizeImports": "explicit"
       }
   },
-
+  "[python.notebook]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "charliermarsh.ruff",
+    "editor.codeActionsOnSave": {
+      "source.fixAll": "never",
+      "source.organizeImports": "explicit"
+    }
+  },
   "notebook.codeActionsOnSave": {
     "notebook.source.fixAll": "explicit",
     "notebook.source.organizeImports": "explicit"
