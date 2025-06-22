@@ -9,7 +9,6 @@
   "ruff.enable": true,
   "ruff.organizeImports": true,
   "ruff.importStrategy": "useBundled",
-  "ruff.lineLength": 128,
 
   // python linter and formatter
   "[python]": {
