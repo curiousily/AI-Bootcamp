@@ -30,5 +30,6 @@
   "notebook.codeActionsOnSave": {
     "notebook.source.fixAll": "explicit",
     "notebook.source.organizeImports": "explicit"
-  }
+  },
+  "python.analysis.typeCheckingMode": "basic"
 }
