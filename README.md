@@ -7,48 +7,27 @@ The "Get Shit Done with AI" Bootcamp focuses on real-world applications that wil
 [![](https://img.shields.io/youtube/channel/subscribers/UCoW_WzQNJVAjxo4osNAxd_g?label=Watch%20on%20YouTube)](https://bit.ly/venelin-subscribe)
 [![](https://img.shields.io/github/license/curiousily/AI-Bootcamp)](https://github.com/curiousily/AI-Bootcamp/blob/master/LICENSE)
 
-## 🍿 Watch on YouTube
-
-- [Real-World PyTorch](https://www.youtube.com/watch?v=dgs_9quxZXk)
-- [Build Real-World Machine Learning Project](https://www.youtube.com/watch?v=ug1FA7qzWSc)
-- [Fine-tuning Tiny LLM on Your Data](https://www.youtube.com/watch?v=_KPEoCSKHcU)
-- [Deploy (Tiny) LLM to Production](https://www.youtube.com/watch?v=c10rsQkczu0)
-- [AI Agents with GPT-4 Turbo and CrewAI](https://www.youtube.com/watch?v=Ev0uzdzesjU)
-- [CrewAI with Open LLM (Llama 3) using Groq API](https://www.youtube.com/watch?v=N5sos1X30Rw)
-- [Fine-Tuning Llama 3 on a Custom Dataset](https://www.youtube.com/watch?v=0XPZlR3_GgI)
-- [Local RAG with Llama 3.1 for PDFs](https://www.youtube.com/watch?v=ofNbLa2-5SU)
-
-## 📖 Read the Tutorials
-
-### Foundational Skills
-
-- [Python Essentials for AI: A Practical Guide](https://www.mlexpert.io/bootcamp)
-- [Real-World PyTorch](https://www.mlexpert.io/bootcamp/real-world-pytorch)
-
-### ML Pipelines
-
-- [Analyze Data For Insights](https://www.mlexpert.io/bootcamp/analyze-data-for-insights)
-- [Develop Your Model](https://www.mlexpert.io/bootcamp/develop-your-model)
-- [Evaluate Your Model](https://www.mlexpert.io/bootcamp/evaluate-your-model)
-- [Architect Your ML Project](https://www.mlexpert.io/bootcamp/architect-your-ml-project)
-
-### Large Language Models (LLMs)
-
-- [LLMs 101](https://www.mlexpert.io/bootcamp/llms-101)
-- [Write Great Prompts](https://www.mlexpert.io/bootcamp/write-great-prompts)
-- [Build a RAG System](https://www.mlexpert.io/bootcamp/build-a-rag-system)
-- [Fine-tuning Tiny LLM on Custom Dataset](https://www.mlexpert.io/bootcamp/fine-tuning-tiny-llm-on-custom-dataset)
-- [Deploy Custom LLM to Production](https://www.mlexpert.io/bootcamp/deploy-custom-llm-to-production)
-- [LLM Evaluation](https://www.mlexpert.io/bootcamp/llm-evaluation)
-
-### AI Agents
-
-- [Build Agentic Apps](https://www.mlexpert.io/bootcamp/build-agentic-apps)
-- [Agents with Llama 3 and Custom Tools](https://www.mlexpert.io/bootcamp/agents-with-llama-3-and-custom-tools)
-- [Develop a Tweet Writing Team](https://www.mlexpert.io/bootcamp/ai-agents-in-action)
-- [SQL Agents with CrewAI and Llama 3](https://www.mlexpert.io/bootcamp/sql-agents-with-crewai)
-
-### Projects
-
-- [RagBase - Private Chat with Your Documents](https://www.mlexpert.io/bootcamp/ragbase-local-rag)
-- [Write Social Media Content with Agents](https://www.mlexpert.io/bootcamp/write-social-media-content-with-agents)
+| # | Module | Title | View |
+| :-- | :--------------------------- | :----------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1 | AI/ML Foundations | Python Essentials for AI Engineering | [View Tutorial](https://www.mlexpert.io/academy/v1/foundations/python-essentials) |
+| 2 | | Mathematics is the Language of AI | [View Tutorial](https://www.mlexpert.io/academy/v1/foundations/mathematics-for-ai) |
+| 3 | | Start Simple - The Power of Linear Models | [View Tutorial](https://www.mlexpert.io/academy/v1/foundations/linear-models) |
+| 4 | | Essential PyTorch for Real-World Applications | [View Tutorial](https://www.mlexpert.io/academy/v1/foundations/real-world-pytorch) <br> [Watch on YouTube](https://www.youtube.com/watch?v=dgs_9quxZXk) |
+| 5 | MLOps and Production Systems | Understanding Your Data - Data Exploration | [View Tutorial](https://www.mlexpert.io/academy/v1/ml-in-production/data-exploration) |
+| 6 | | Fueling Production AI - Data Validation & Pipelines | [View Tutorial](https://www.mlexpert.io/academy/v1/ml-in-production/data-validation-and-processing) |
+| 7 | | Reproducible Training - ML Pipelines & Experiment Tracking | [View Tutorial](https://www.mlexpert.io/academy/v1/ml-in-production/machine-learning-pipelines) |
+| 8 | | From Model to Service - Building and Dockerizing APIs | [View Tutorial](https://www.mlexpert.io/academy/v1/ml-in-production/model-to-container) |
+| 9 | | Serving at Scale - Cloud Deployment with AWS | [View Tutorial](https://www.mlexpert.io/academy/v1/ml-in-production/cloud-deployment) |
+| 10 | AI Systems Engineering | Prompt Engineering | [View Tutorial](https://www.mlexpert.io/academy/v1/ai-systems-engineering/prompt-engineering) |
+| 11 | | The AI Engineer Toolkit - APIs, structured output, tools | [View Tutorial](https://www.mlexpert.io/academy/v1/ai-systems-engineering/ai-engineer-toolkit) <br> [Watch on YouTube](https://www.youtube.com/watch?v=10Pixhd9f9k) |
+| 12 | | LangChain Foundations - An Engineer's Guide | [View Tutorial](https://www.mlexpert.io/academy/v1/ai-systems-engineering/langchain-foundations) <br> [Watch on YouTube](https://www.youtube.com/watch?v=W8XKeV94xhk) |
+| 13 | | Connect AI to External Systems - Model Context Protocol | [View Tutorial](https://www.mlexpert.io/academy/v1/ai-systems-engineering/model-context-protocol) <br> [Watch on YouTube](https://www.youtube.com/watch?v=aiH79Q-LGjY) |
+| 14 | | LLM Evaluation | [View Tutorial](https://www.mlexpert.io/academy/v1/ai-systems-engineering/llm-evaluation) |
+| 15 | RAG and Context Engineering | Build a Chatbot with Memory | [View Tutorial](https://www.mlexpert.io/academy/v1/context-engineering/build-chatbot) <br> [Watch on YouTube](https://www.youtube.com/watch?v=XdbIv7AE3VA) |
+| 16 | | Build a Cache-Augmented Generation (CAG) System | [View Tutorial](https://www.mlexpert.io/academy/v1/context-engineering/cache-augmented-generation) <br> [Watch on YouTube](https://www.youtube.com/watch?v=r6-3y7g8bw4) |
+| 17 | | Create Knowledge for Your Models - Document Processing | [View Tutorial](https://www.mlexpert.io/academy/v1/context-engineering/document-processing-for-ai) <br> [Watch on YouTube](https://www.youtube.com/watch?v=B5XD-qpL0FU) |
+| 18 | | Building Retrieval-Augmented Generation Pipelines | [View Tutorial](https://www.mlexpert.io/academy/v1/context-engineering/rag-pipelines) <br> [Watch on YouTube](https://www.youtube.com/watch?v=Fyry6WO9nlc) |
+| 19 | AI Agents and Workflows | Choosing Your Approach - Workflows vs Agents | [View Tutorial](https://www.mlexpert.io/academy/v1/ai-agents/agents-and-workflows) |
+| 20 | | Teamwork Makes the Dream Work - Build Agentic Workflow | [View Tutorial](https://www.mlexpert.io/academy/v1/ai-agents/build-agentic-workflow) <br> [Watch on YouTube](https://www.youtube.com/watch?v=dVf1z2BDVtI) |
+| 21 | | Thinking and Acting - Build an AI Agent | [View Tutorial](https://www.mlexpert.io/academy/v1/ai-agents/build-ai-agent) <br> [Watch on YouTube](https://www.youtube.com/watch?v=ay_sYadoxgk) |
+| 22 | | Chat With Your Data - A Local MCP AI Agent | [View Tutorial](https://www.mlexpert.io/academy/v1/ai-agents/build-mcp-agent) <br> [Watch on YouTube](https://www.youtube.com/watch?v=ZkMlWwgiFGw) |
