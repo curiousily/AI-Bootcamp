@@ -1,11 +1,11 @@
 # AI Bootcamp
 
-The "Get Shit Done with AI" Bootcamp focuses on real-world applications that will equip you with the skills and knowledge to become a great AI engineer
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/curiousily/AI-Bootcamp/)
 [![](https://dcbadge.vercel.app/api/server/UaNPxVD6tv?style=flat)](https://discord.gg/UaNPxVD6tv)
 [![](https://img.shields.io/youtube/channel/subscribers/UCoW_WzQNJVAjxo4osNAxd_g?label=Watch%20on%20YouTube)](https://bit.ly/venelin-subscribe)
 [![](https://img.shields.io/github/license/curiousily/AI-Bootcamp)](https://github.com/curiousily/AI-Bootcamp/blob/master/LICENSE)
+
+The "Get Shit Done with AI" Bootcamp focuses on real-world applications that will equip you with the skills and knowledge to become a great AI engineer
 
 | # | Module | Title | View |
 | :-- | :--------------------------- | :----------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
