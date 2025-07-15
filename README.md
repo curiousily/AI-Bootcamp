@@ -7,27 +7,54 @@
 
 The "Get Shit Done with AI" Bootcamp focuses on real-world applications that will equip you with the skills and knowledge to become a great AI engineer
 
-| # | Module | Title | View |
-| :-- | :--------------------------- | :----------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 | AI/ML Foundations | Python Essentials for AI Engineering | [View Tutorial](https://www.mlexpert.io/academy/v1/foundations/python-essentials) |
-| 2 | | Mathematics is the Language of AI | [View Tutorial](https://www.mlexpert.io/academy/v1/foundations/mathematics-for-ai) |
-| 3 | | Start Simple - The Power of Linear Models | [View Tutorial](https://www.mlexpert.io/academy/v1/foundations/linear-models) |
-| 4 | | Essential PyTorch for Real-World Applications | [View Tutorial](https://www.mlexpert.io/academy/v1/foundations/real-world-pytorch) <br> [YouTube Video](https://www.youtube.com/watch?v=dgs_9quxZXk) |
-| 5 | MLOps and Production Systems | Understanding Your Data - Data Exploration | [View Tutorial](https://www.mlexpert.io/academy/v1/ml-in-production/data-exploration) <br> [YouTube Video](https://www.youtube.com/watch?v=dgs_9quxZXk) |
-| 6 | | Fueling Production AI - Data Validation & Pipelines | [View Tutorial](https://www.mlexpert.io/academy/v1/ml-in-production/data-validation-and-processing) |
-| 7 | | Reproducible Training - ML Pipelines & Experiment Tracking | [View Tutorial](https://www.mlexpert.io/academy/v1/ml-in-production/machine-learning-pipelines) |
-| 8 | | From Model to Service - Building and Dockerizing APIs | [View Tutorial](https://www.mlexpert.io/academy/v1/ml-in-production/model-to-container) |
-| 9 | | Serving at Scale - Cloud Deployment with AWS | [View Tutorial](https://www.mlexpert.io/academy/v1/ml-in-production/cloud-deployment) |
-| 10 | AI Systems Engineering | Prompt Engineering | [View Tutorial](https://www.mlexpert.io/academy/v1/ai-systems-engineering/prompt-engineering) |
-| 11 | | The AI Engineer Toolkit - APIs, structured output, tools | [View Tutorial](https://www.mlexpert.io/academy/v1/ai-systems-engineering/ai-engineer-toolkit) <br> [YouTube Video](https://www.youtube.com/watch?v=10Pixhd9f9k) |
-| 12 | | LangChain Foundations - An Engineer's Guide | [View Tutorial](https://www.mlexpert.io/academy/v1/ai-systems-engineering/langchain-foundations) <br> [YouTube Video](https://www.youtube.com/watch?v=W8XKeV94xhk) |
-| 13 | | Connect AI to External Systems - Model Context Protocol | [View Tutorial](https://www.mlexpert.io/academy/v1/ai-systems-engineering/model-context-protocol) <br> [YouTube Video](https://www.youtube.com/watch?v=aiH79Q-LGjY) |
-| 14 | | LLM Evaluation | [View Tutorial](https://www.mlexpert.io/academy/v1/ai-systems-engineering/llm-evaluation) |
-| 15 | RAG and Context Engineering | Build a Chatbot with Memory | [View Tutorial](https://www.mlexpert.io/academy/v1/context-engineering/build-chatbot) <br> [YouTube Video](https://www.youtube.com/watch?v=XdbIv7AE3VA) |
-| 16 | | Build a Cache-Augmented Generation (CAG) System | [View Tutorial](https://www.mlexpert.io/academy/v1/context-engineering/cache-augmented-generation) <br> [YouTube Video](https://www.youtube.com/watch?v=r6-3y7g8bw4) |
-| 17 | | Create Knowledge for Your Models - Document Processing | [View Tutorial](https://www.mlexpert.io/academy/v1/context-engineering/document-processing-for-ai) <br> [YouTube Video](https://www.youtube.com/watch?v=B5XD-qpL0FU) |
-| 18 | | Building Retrieval-Augmented Generation Pipelines | [View Tutorial](https://www.mlexpert.io/academy/v1/context-engineering/rag-pipelines) <br> [YouTube Video](https://www.youtube.com/watch?v=Fyry6WO9nlc) |
-| 19 | AI Agents and Workflows | Choosing Your Approach - Workflows vs Agents | [View Tutorial](https://www.mlexpert.io/academy/v1/ai-agents/agents-and-workflows) |
-| 20 | | Teamwork Makes the Dream Work - Build Agentic Workflow | [View Tutorial](https://www.mlexpert.io/academy/v1/ai-agents/build-agentic-workflow) <br> [YouTube Video](https://www.youtube.com/watch?v=dVf1z2BDVtI) |
-| 21 | | Thinking and Acting - Build an AI Agent | [View Tutorial](https://www.mlexpert.io/academy/v1/ai-agents/build-ai-agent) <br> [YouTube Video](https://www.youtube.com/watch?v=ay_sYadoxgk) |
-| 22 | | Chat With Your Data - A Local MCP AI Agent | [View Tutorial](https://www.mlexpert.io/academy/v1/ai-agents/build-mcp-agent) <br> [YouTube Video](https://www.youtube.com/watch?v=ZkMlWwgiFGw) |
+### AI/ML Foundations
+Master the core code and concepts, from Python essentials to your first powerful machine learning model.
+
+| Lesson | Text & Code |
+| :--- | :--- |
+| Python Essentials for AI Engineering | [Read](/foundations/python-essentials) |
+| Mathematics is the Language of AI | [Read](/foundations/mathematics-for-ai) |
+| Start Simple - The Power of Linear Models | [Read](/foundations/linear-models) |
+| Essential PyTorch for Real-World Applications | [Read](/foundations/real-world-pytorch) |
+
+### MLOps and Production Systems
+Don't just build models - ship them. Master the production lifecycle from data pipelines to live API deployment.
+
+| Lesson | Text & Code |
+| :--- | :--- | 
+| Understanding Your Data - Data Exploration | [Read](/ml-in-production/data-exploration) |
+| Fueling Production AI - Data Validation & Pipelines | [Read](/ml-in-production/data-validation-and-processing) |
+| Reproducible Training - ML Pipelines & Experiment Tracking | [Read](/ml-in-production/machine-learning-pipelines) |
+| From Model to Service - Building and Dockerizing APIs | [Read](/ml-in-production/model-to-container) |
+| Serving at Scale - Cloud Deployment with AWS | [Read](/ml-in-production/cloud-deployment) |
+
+### AI Systems Engineering
+Master the full-stack toolkit for building cutting-edge applications on top of Large Language Models.
+
+| Lesson | Text & Code | Video |
+| :--- | :--- | :--- |
+| Prompt Engineering | [Read](/ai-systems-engineering/prompt-engineering) | |
+| The AI Engineer Toolkit - APIs, structured output, tools | [Read](/ai-systems-engineering/ai-engineer-toolkit) | [Watch](https://www.youtube.com/watch?v=10Pixhd9f9k) |
+| LangChain Foundations - An Engineer's Guide | [Read](/ai-systems-engineering/langchain-foundations) | [Watch](https://www.youtube.com/watch?v=W8XKeV94xhk) |
+| Connect AI to External Systems - Model Context Protocol | [Read](/ai-systems-engineering/model-context-protocol) | [Watch](https://www.youtube.com/watch?v=aiH79Q-LGjY) |
+| Lies, Damn Lies and Hallucinations - Evaluating your LLMs | [Read](/ai-systems-engineering/llm-evaluation) | |
+
+### RAG and Context Engineering
+Connect LLMs to vectors, caches, and long-term memory so they can answer with up-to-date and private knowledge.
+
+| Lesson | Text & Code | Video |
+| :--- | :--- | :--- |
+| Build a Chatbot with Memory | [Read](/context-engineering/build-chatbot) | [Watch](https://www.youtube.com/watch?v=XdbIv7AE3VA) |
+| Use External Knowledge - Build a Cache-Augmented Generation (CAG) System | [Read](/context-engineering/cache-augmented-generation) | [Watch](https://www.youtube.com/watch?v=r6-3y7g8bw4) |
+| Create Knowledge for Your Models - Document Processing | [Read](/context-engineering/document-processing-for-ai) | [Watch](https://www.youtube.com/watch?v=B5XD-qpL0FU) |
+| Build a Retrieval-Augmented Generation System | [Read](/context-engineering/rag-pipelines) | [Watch](https://www.youtube.com/watch?v=Fyry6WO9nlc) |
+
+### AI Agents and Workflows
+Build the future of automation. Design intelligent agents that can reason, plan, and execute complex tasks on their own.
+
+| Lesson | Text & Code | Video |
+| :--- | :--- | :--- |
+| Choosing Your Approach - Workflows vs Agents | [Read](/ai-agents/agents-and-workflows) | |
+| Teamwork Makes the Dream Work - Build Agentic Workflow | [Read](/ai-agents/build-agentic-workflow) | [Watch](https://www.youtube.com/watch?v=dVf1z2BDVtI) |
+| Thinking and Acting - Build an AI Agent | [Read](/ai-agents/build-ai-agent) | [Watch](https://www.youtube.com/watch?v=ay_sYadoxgk) |
+| Chat With Your Data - A Local MCP AI Agent | [Read](/ai-agents/build-mcp-agent) | [Watch](https://www.youtube.com/watch?v=ZkMlWwgiFGw) |
