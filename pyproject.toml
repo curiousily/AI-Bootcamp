@@ -1,0 +1,20 @@
+[project]
+name = "mlexpert_bootcamp"
+version = "1.0.0"
+description = "AI Engineering Open Bootcamp"
+readme = "README.md"
+requires-python = ">=3.13.9"
+dependencies = [
+    "jupyterlab>=4.5.1",
+]
+
+[dependency-groups]
+dev = [
+    "pre-commit>=4.5.1",
+    "ruff>=0.14.9",
+]
+
+[tool.pytest.ini_options]
+pythonpath = [
+  "."
+]

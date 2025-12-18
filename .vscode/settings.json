@@ -1,35 +1,22 @@
 {
-      // jupyter
   "jupyter.askForKernelRestart": false,
   "notebook.consolidatedRunButton": true,
-  "notebook.formatOnSave.enabled": true,
-  "notebook.defaultFormatter": "charliermarsh.ruff",
-
-  // ruff
   "ruff.enable": true,
   "ruff.organizeImports": true,
   "ruff.importStrategy": "useBundled",
-
-  // python linter and formatter
+  "python.defaultInterpreterPath": "python",
   "[python]": {
-      "editor.formatOnSave": true,
-      "editor.defaultFormatter": "charliermarsh.ruff",
-      "editor.codeActionsOnSave": {
-          "source.fixAll": "never",
-          "source.organizeImports": "explicit"
-      }
-  },
-  "[python.notebook]": {
     "editor.formatOnSave": true,
     "editor.defaultFormatter": "charliermarsh.ruff",
     "editor.codeActionsOnSave": {
-      "source.fixAll": "never",
+      "source.fixAll": "explicit",
       "source.organizeImports": "explicit"
     }
   },
+  "notebook.formatOnSave.enabled": true,
+  "notebook.defaultFormatter": "charliermarsh.ruff",
   "notebook.codeActionsOnSave": {
     "notebook.source.fixAll": "explicit",
     "notebook.source.organizeImports": "explicit"
   },
-  "python.analysis.typeCheckingMode": "basic"
 }
