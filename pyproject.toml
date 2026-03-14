@@ -5,15 +5,18 @@ description = "AI Engineering Open Bootcamp"
 readme = "README.md"
 requires-python = ">=3.13.9"
 dependencies = [
-    "jupyterlab>=4.5.5",
+    "jupyterlab>=4.5.6",
     "matplotlib>=3.10.8",
     "pandas>=3.0.1",
+    "pdf2image>=1.17.0",
+    "python-dotenv>=1.2.2",
+    "wand>=0.7.0",
 ]
 
 [dependency-groups]
 dev = [
     "pre-commit>=4.5.1",
-    "ruff>=0.15.4",
+    "ruff>=0.15.6",
 ]
 
 [tool.pytest.ini_options]
