@@ -5,7 +5,9 @@ description = "AI Engineering Open Bootcamp"
 readme = "README.md"
 requires-python = ">=3.13.9"
 dependencies = [
+    "ipywidgets>=8.1.8",
     "jupyterlab>=4.5.6",
+    "markdown>=3.10.2",
     "matplotlib>=3.10.8",
     "openai>=2.30.0",
     "pandas>=3.0.1",
