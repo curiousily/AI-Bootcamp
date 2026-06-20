@@ -6,15 +6,15 @@ readme = "README.md"
 requires-python = ">=3.13.9"
 dependencies = [
     "ipywidgets>=8.1.8",
-    "jupyterlab>=4.5.8",
+    "jupyterlab>=4.5.9",
     "markdown>=3.10.2",
     "matplotlib>=3.11.0",
-    "openai>=2.30.0",
+    "openai>=2.43.0",
     "pandas>=3.0.1",
     "pdf2image>=1.17.0",
-    "pypdfium2>=5.6.0",
+    "pypdfium2>=5.10.1",
     "python-dotenv>=1.2.2",
-    "wand>=0.7.0",
+    "wand>=0.7.1",
 ]
 
 [dependency-groups]
