@@ -75,3 +75,14 @@ Build the future of automation. Design intelligent agents that can reason, plan,
 | Thinking and Acting - Build an AI Agent                | Build an AI agent that lets you to talk to your database. Working with a local LLM using LangChain and Ollama.                                                                                            | [Read](https://www.mlexpert.io/academy/v1/ai-agents/build-ai-agent)         | [Watch](https://www.youtube.com/watch?v=ay_sYadoxgk) |
 | Chat With Your Data - A Local MCP AI Agent             | Build a secure, local-first AI agent that can chat with your files. This tutorial uses the Model Context Protocol (MCP), LangGraph, and Streamlit to create a powerful personal knowledge manager.        | [Read](https://www.mlexpert.io/academy/v1/ai-agents/build-mcp-agent)        | [Watch](https://www.youtube.com/watch?v=ZkMlWwgiFGw) |
 | Agentic RAG - Building an AI Financial Analyst Team    | Build a multi-agent system with LangGraph that dynamically plans and retrieves financial data from stock APIs and SEC filings to answer complex questions, moving beyond simple RAG pipelines.  | [Read](https://www.mlexpert.io/academy/v1/ai-agents/agentic-rag)        |  |
+
+## Model Explorations
+
+Hands-on notebooks for exploring specific LLM providers and models.
+
+| Model | Description | Notebook |
+| ----- | ----------- | -------- |
+| GPT-4o | OpenAI's multimodal model - text generation, vision, streaming, JSON output, and tool calling | [Open](gpt-4o.ipynb) |
+| DeepSeek R1 | DeepSeek's reasoning model via Ollama - lyrics, coding, labeling, summarization, and structured data extraction | [Open](deepseek-r1.ipynb) |
+| MiniMax M2.7 | MiniMax's 204K context model via OpenAI-compatible API - text generation, streaming, structured output, tool calling, and data labelling | [Open](minimax-m2.7.ipynb) |
+| Multiple Providers with LiteLLM | Use OpenAI, Gemini, and MiniMax through a single unified interface with litellm | [Open](26.multiple-llm-providers-with-litellm.ipynb) |
