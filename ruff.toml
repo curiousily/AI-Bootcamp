@@ -1,1 +1,11 @@
+target-version = "py313"
+line-length = 88
 extend-include = ["*.ipynb"]
+
+[lint]
+# Keep the rule set stable as Ruff adds new default checks.
+select = ["E4", "E7", "E9", "F", "I"]
+
+[lint.per-file-ignores]
+# Notebook examples can intentionally redefine names or leave exercises incomplete.
+"*.ipynb" = ["E", "F"]

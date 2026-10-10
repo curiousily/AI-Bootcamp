@@ -6,22 +6,19 @@ readme = "README.md"
 requires-python = ">=3.13.9"
 dependencies = [
     "ipywidgets>=8.1.9",
-    "jupyterlab>=4.6.3",
-    "markdown>=3.10.3",
+    "ipython>=9.17.1",
+    "jupyterlab>=4.6.4",
+    "markdown>=3.11",
     "matplotlib>=3.11.2",
-    "openai>=2.43.0",
+    "openai>=3.28.0",
     "pandas>=3.0.6",
-    "pdf2image>=1.17.0",
-    "pypdfium2>=5.10.1",
-    "python-dotenv>=1.2.3",
-    "typesafe-sdk>=0.7.0",
-    "wand>=0.7.2",
+    "python-dotenv>=1.2.4",
 ]
 
 [dependency-groups]
 dev = [
     "pre-commit>=4.6.2",
-    "ruff>=0.16.8",
+    "ruff>=0.17.0",
 ]
 
 [tool.pytest.ini_options]

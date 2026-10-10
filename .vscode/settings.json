@@ -1,18 +1,19 @@
 {
+  "python.defaultInterpreterPath": "${workspaceFolder}/.venv",
   "[python]": {
     "editor.formatOnSave": true,
     "editor.defaultFormatter": "charliermarsh.ruff",
     "editor.codeActionsOnSave": {
-      "source.fixAll": "explicit",
-      "source.organizeImports": "explicit"
+      "source.fixAll.ruff": "explicit",
+      "source.organizeImports.ruff": "explicit"
     }
   },
   "notebook.formatOnSave.enabled": true,
   "notebook.codeActionsOnSave": {
     "notebook.source.fixAll": "explicit",
-    "notebook.source.organizeImports": "explicit",
-},
-"terminal.integrated.fontFamily": "BlexMono Nerd Font",
-"terminal.integrated.fontLigatures.enabled": true,
-"jupyter.interactiveWindow.textEditor.executeSelection": true
+    "notebook.source.organizeImports": "explicit"
+  },
+  "terminal.integrated.fontFamily": "BlexMono Nerd Font",
+  "terminal.integrated.fontLigatures.enabled": true,
+  "jupyter.interactiveWindow.textEditor.executeSelection": true
 }
