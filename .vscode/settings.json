@@ -1,5 +1,7 @@
 {
   "python.defaultInterpreterPath": "${workspaceFolder}/.venv",
+  "python.analysis.diagnosticMode": "workspace",
+  "python.analysis.typeCheckingMode": "basic",
   "[python]": {
     "editor.formatOnSave": true,
     "editor.defaultFormatter": "charliermarsh.ruff",
